@@ -1,0 +1,31 @@
+<html>
+<head>
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="mystyle.css">
+    <!-- Chache options -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+</head>
+<body>
+    <!-- Plotly chart will be drawn inside this DIV -->
+    <div>
+        <h1>Graph Plotly</h1>
+        <div id="plotlyChart"></div>
+    </div>
+
+    <script>
+        function createPlotlyChart(data) {
+            var layout = {
+                title: 'Plotly Chart',
+                xaxis: { title: 'X-axis' },
+                yaxis: { title: 'Y-axis' }
+            };
+
+            // Create a new Plotly chart in the specified div
+            Plotly.newPlot('plotlyChart', [data], layout);
+        }
+    </script>
+</body>
+</html>
