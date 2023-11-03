@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonWPFExample", "JsonWPFExample.csproj", "{2633A414-0C0D-416A-82B8-0E953717EC20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonWPFExample", "JsonWPFExample.csproj", "{2633A414-0C0D-416A-82B8-0E953717EC20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollerRestExample", "..\PollerRestExample\PollerRestExample.csproj", "{3962E324-95B1-4E6B-BD7D-10D5107C87D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2633A414-0C0D-416A-82B8-0E953717EC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2633A414-0C0D-416A-82B8-0E953717EC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2633A414-0C0D-416A-82B8-0E953717EC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3962E324-95B1-4E6B-BD7D-10D5107C87D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3962E324-95B1-4E6B-BD7D-10D5107C87D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3962E324-95B1-4E6B-BD7D-10D5107C87D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3962E324-95B1-4E6B-BD7D-10D5107C87D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

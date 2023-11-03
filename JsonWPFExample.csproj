@@ -18,6 +18,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PollerRestExample\PollerRestExample.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="ProgettoJson\index1.html">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
