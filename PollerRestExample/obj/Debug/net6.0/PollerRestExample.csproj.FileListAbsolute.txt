@@ -1,0 +1,14 @@
+C:\Users\lmelis\source\repos\PollerRestExample\bin\Debug\net6.0\PollerRestExample.exe
+C:\Users\lmelis\source\repos\PollerRestExample\bin\Debug\net6.0\PollerRestExample.deps.json
+C:\Users\lmelis\source\repos\PollerRestExample\bin\Debug\net6.0\PollerRestExample.runtimeconfig.json
+C:\Users\lmelis\source\repos\PollerRestExample\bin\Debug\net6.0\PollerRestExample.dll
+C:\Users\lmelis\source\repos\PollerRestExample\bin\Debug\net6.0\PollerRestExample.pdb
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\PollerRestExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\PollerRestExample.AssemblyInfoInputs.cache
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\PollerRestExample.AssemblyInfo.cs
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\PollerRestExample.csproj.CoreCompileInputs.cache
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\PollerRestExample.dll
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\refint\PollerRestExample.dll
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\PollerRestExample.pdb
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\PollerRestExample.genruntimeconfig.cache
+C:\Users\lmelis\source\repos\PollerRestExample\obj\Debug\net6.0\ref\PollerRestExample.dll
